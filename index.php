@@ -27,7 +27,7 @@ $quotes = array("When you want to succeed as bad as you want to breathe, then yo
 		<br/>
 		I completed my undergraduate degree in Computer Science at the end of 2016 (a 14 year journey of on and off part-time course work). I never imagined I would continue on after that, as I've never viewed a master's degree necessary for a programmer, but once I heard about Harvard Extention School, I thought about how cool it would be to have a Harvard degree!<br/>
 		<br/>
-		I am very excited for 2017, as it is the start of this adventure, as well as a becoming a father in April!
+		I am very excited for 2017! I'm starting this new adventure as well as becoming a father in April!
 	</p>
 	<div class="centerdiv">
 		<h2>Random Quote</h2>
