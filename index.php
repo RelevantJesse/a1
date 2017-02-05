@@ -1,5 +1,5 @@
 <?php
-$quotes = array("When you want to succeed as bad as you want to breathe, then you will be successful. = Eric Thomas",
+$quotes = array("When you want to succeed as bad as you want to breathe, then you will be successful. - Eric Thomas",
 "Hard work beats talent when talent doesn't work hard. -Tim Notke",
 "We only get to play this game one time... one life. - Gary Vaynerchuk",
 "I find that the harder I work, the more luck I seem to have. - Thomas Jefferson");
