@@ -5,6 +5,7 @@ $quotes = array("When you want to succeed as bad as you want to breathe, then yo
 "I find that the harder I work, the more luck I seem to have. - Thomas Jefferson");
 ?>
 
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -23,10 +24,10 @@ $quotes = array("When you want to succeed as bad as you want to breathe, then yo
 		<h2>About Me</h2>
 	</div>
 	<p>
-		My name is Jesse Prescott, and I am a .NET Software Developer, currently living in Augusta, GA. My wife is in the Marine Corps, which is what brought us here (Fort Gordon).<br/>
-		<br/>
-		I completed my undergraduate degree in Computer Science at the end of 2016 (a 14 year journey of on and off part-time course work). I never imagined I would continue on after that, as I've never viewed a master's degree necessary for a programmer, but once I heard about Harvard Extention School, I thought about how cool it would be to have a Harvard degree!<br/>
-		<br/>
+		My name is Jesse Prescott, and I am a .NET Software Developer, currently living in Augusta, GA. My wife is in the Marine Corps, which is what brought us here (Fort Gordon).<br>
+		<br>
+		I completed my undergraduate degree in Computer Science at the end of 2016 (a 14 year journey of on and off part-time course work). I never imagined I would continue on after that, as I've never viewed a master's degree necessary for a programmer, but once I heard about Harvard Extention School, I thought about how cool it would be to have a Harvard degree!<br>
+		<br>
 		I am very excited for 2017! I'm starting this new adventure as well as becoming a father in April!
 	</p>
 	<div class="centerdiv">
